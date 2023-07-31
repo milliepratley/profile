@@ -9,14 +9,14 @@ body {
 
 h1, h2 {
   font-family: "REM", sans-serif;
-  color: rgb(20, 21, 22);
+  color: #cdb4db;
   font-size: 20px;
   line-height: normal;
 }
 
 h3 {
   font-family: "REM", sans-serif;
-  color: rgb(20, 21, 22);
+  color: #cdb4db;
   font-size: 20px;
   line-height: normal;
   margin: 10px 0;
@@ -106,7 +106,7 @@ ul {
 .child {
   display: inline-block;
   vertical-align: middle;
-  width: 355px;
+  width: 350px;
   height: 175px;
   margin: 10px 10px;
   text-align: center;
